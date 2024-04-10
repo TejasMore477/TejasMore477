@@ -26,13 +26,26 @@
 
 <h3 align="left">Technologies and FrameWorks:</h3>
 <p align="left" display="block"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="c" width="50" height="40"/> </a> 
-<!--   <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TejasMore477/TejasMore477/assets/132757112/f12b6ff9-45f1-455f-907a-197afe24ab4e" alt="c" width="50" height="40"/> </a> -->
+  <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TejasMore477/TejasMore477/assets/132757112/f12b6ff9-45f1-455f-907a-197afe24ab4e" alt="c" width="50" height="40"/> </a>
 </p>
   
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tejasmore477"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tejasmore477" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasmore477&show_icons=true&locale=en&layout=compact" alt="tejasmore477"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tejasmore477&show_icons=true&locale=en" alt="tejasmore477"/></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmore477&layout=compact&theme=dark" alt="tejasmore477" />
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tejasmore477&show_icons=true&locale=en&theme=dark" alt="tejasmore477" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmore477&theme=dark" alt="tejasmore477" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasmore477&" alt="tejasmore477" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/tejasmore477">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tejasmore477&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasmore477&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejasmore477&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejasmore477&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasmore477&theme=dark" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tejasmore477&theme=high-contrast"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
