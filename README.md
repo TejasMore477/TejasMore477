@@ -30,7 +30,7 @@
 <h3 align="left">Technologies, FrameWorks and Libraries:</h3>
 <p align="left" display="block"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="c" width="50" height="40"/> </a> 
 <a href="https://gsap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TejasMore477/TejasMore477/assets/132757112/f12b6ff9-45f1-455f-907a-197afe24ab4e" alt="c" width="50" height="40"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="![react-original](https://github.com/TejasMore477/TejasMore477/assets/132757112/5ecd0e7b-d335-46e4-9c4c-2194d14ad75c)" alt="c" width="50" height="40"/> </a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="![react-original](https://github.com/TejasMore477/TejasMore477/assets/132757112/5ecd0e7b-d335-46e4-9c4c-2194d14ad75c)" alt="react" width="50" height="40"/> </a>
 </p>
   
 <h3 align="left">Support:</h3>
