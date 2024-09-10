@@ -35,6 +35,7 @@
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" alt="JSON" width="50" height="40"/> </a>
   <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="ReactRouter" width="50" height="40"/> </a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" alt="FRAMMER" width="50" height="40"/> </a>
+    <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b2c8690e-3565-4df6-a165-281bded8576e" alt="c" width="45" height="40"/> </a>
 </p>
   
 <h3 align="left">Support:</h3>
