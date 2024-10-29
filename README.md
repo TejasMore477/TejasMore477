@@ -37,8 +37,12 @@
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" alt="FRAMMER" width="50" height="40"/> </a>
     <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/b2c8690e-3565-4df6-a165-281bded8576e" alt="c" width="45" height="40"/> </a>
 </p>
+<br/>
+<h2 align="left" > Hacktoberfest @ 2024 : Holopin badges 🐱‍👤 </h2>
+
+[![An image of @tejasmore477's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasmore477)](https://holopin.io/@tejasmore477)
   
-<h3 align="left">Support:</h3>
+<h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/tejasmore477"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tejasmore477" /></a></p><br><br><br>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasmore477&layout=compact&theme=dark" alt="tejasmore477" />
@@ -56,5 +60,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tejasmore477&theme=high-contrast"/>
+  
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
