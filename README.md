@@ -94,6 +94,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
 
   <!-- APIs & JSON -->
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer">
